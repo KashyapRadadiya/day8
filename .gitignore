@@ -1,0 +1,26 @@
+# Maven target folder
+/target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Eclipse / IntelliJ IDEA files
+*.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper files (if any)
+/.mvn/
+/mvnw
+/mvnw.cmd
